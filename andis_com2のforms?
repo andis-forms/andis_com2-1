@@ -1,0 +1,4 @@
+git add index.html
+$ git commit -m "commit Messege"
+$ git remote add origin https://github.com/[andis-forms]/[andis-forms].github.io.git
+$ git push origin master
